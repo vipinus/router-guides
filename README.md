@@ -21,6 +21,7 @@
 | [03 · 路由器分流是什么](03-router-split-routing.md) |
 | [04 · 给家里老人和电视用](04-family-tv-and-router.md) |
 | [05 · MAC 绑定与换路由器](05-mac-binding-and-replacing.md) |
+| [06 · 在国外用路由器解锁国内视频网站](06-unlock-chinese-video-with-router.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
