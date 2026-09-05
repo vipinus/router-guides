@@ -27,6 +27,7 @@
 | [05 · MAC 绑定与换路由器](05-mac-binding-and-replacing.md) |
 | [06 · 在国外用路由器解锁国内视频网站](06-unlock-chinese-video-with-router.md) |
 | [07 · 该不该上路由器，四个型号怎么挑](07-which-router-to-buy.md) |
+| [08 · 固件装好之后：会自己做的事，和你要知道的几个开关](08-what-the-firmware-does.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
@@ -37,7 +38,7 @@
 | [huiguo-guides](https://github.com/vipinus/huiguo-guides) | 回国访问场景：看国内视频、政务网站、网银支付、音乐、游戏 |
 | [chuhai-guides](https://github.com/vipinus/chuhai-guides) | 出海访问场景：在国内用海外的办公、开发、学术、游戏、影音服务 |
 | [network-guides](https://github.com/vipinus/network-guides) | 网络原理与接入方式怎么选 |
-| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、sing-box/Hiddify、OpenVPN、网页代理 |
+| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、sing-box/Hiddify、OpenVPN、网页代理、私网 Tailscale |
 | [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：分流、电视、刷固件、绑定 |
 | [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障与安装：连不上、看不了、装不上 |
 
