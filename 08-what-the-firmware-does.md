@@ -1,6 +1,8 @@
 # 08 · 固件装好之后：会自己做的事，和你要知道的几个开关
 
-刷好本站固件或买到预装机之后，只需要在管理页登录账号。这篇讲固件**自己会做**的几件事和几个你可能要动的开关；上手见 [01](01-plug-and-play-router.md)，分流见 [03](03-router-split-routing.md)，绑定与换机见 [05](05-mac-binding-and-replacing.md)。
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/router-firmware
+
+刷好本站固件或买到预装机之后，只需要在管理页登录账号。这篇讲固件**自己会做**的几件事和几个你可能要动的开关；上手见 [01](https://github.com/vipinus/router-guides/blob/main/01-plug-and-play-router.md)，分流见 [03](https://github.com/vipinus/router-guides/blob/main/03-router-split-routing.md)，绑定与换机见 [05](https://github.com/vipinus/router-guides/blob/main/05-mac-binding-and-replacing.md)。
 
 ## 自己会做的
 

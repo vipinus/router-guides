@@ -17,7 +17,7 @@
 ## 常见问题
 
 - **指示灯正常但设备连上没网**：看管理页里账号状态，过期或密码错都会显示在那里。
-- **想换一台路由器**：先在网站上解绑旧的，见[MAC 绑定与换路由器](05-mac-binding-and-replacing.md)。
+- **想换一台路由器**：先在网站上解绑旧的，见[MAC 绑定与换路由器](https://github.com/vipinus/router-guides/blob/main/05-mac-binding-and-replacing.md)。
 
 ---
 由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
