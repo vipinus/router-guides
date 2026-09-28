@@ -37,4 +37,4 @@
 - **老路由器整户变慢**：CPU 跑不动加密流量，换性能好一点的型号，见[预装路由器怎么开始](https://github.com/vipinus/router-guides/blob/main/01-plug-and-play-router.md)。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝诺](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

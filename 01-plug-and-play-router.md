@@ -20,4 +20,4 @@
 - **想换一台路由器**：先在网站上解绑旧的，见[MAC 绑定与换路由器](https://github.com/vipinus/router-guides/blob/main/05-mac-binding-and-replacing.md)。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝诺](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
