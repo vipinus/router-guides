@@ -1,5 +1,7 @@
 # 路由器与家庭网络指南
 
+> **本库已于 2026-10-04 合并到 [蓝盾知识库 guides-zh-CN](https://github.com/vipinus/guides-zh-CN/tree/main/router)**，以后的更新都在新库；这里的内容不再维护。其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW/tree/main/router) · [English](https://github.com/vipinus/guides-en/tree/main/router)
+
 整个家的设备一起走线路：预装路由器上手、自己刷固件、分流原理、电视与老人、绑定与换机。由 [蓝盾](https://7d24hrs.com) 团队维护，中文、通用。
 
 **最多人问的一篇：[在国外用路由器解锁国内视频网站](06-unlock-chinese-video-with-router.md)**——电视、盒子、全家设备一次配置，连 Wi-Fi 就能看爱奇艺、腾讯视频、央视频。
